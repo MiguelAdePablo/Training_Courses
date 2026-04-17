@@ -21,5 +21,5 @@ The goal is to keep everything clean and organized so it can be easily accessed 
 
 # 🌐 Useful Links
 
-- [General Index](https://github.com/MiguelAdePablo/Index)
+- [General Index](https://github.com/MiguelAdePablo/)
 
