@@ -2,7 +2,7 @@
 
 This repository serves as an index of the training courses I have completed. Some of these courses require uploading exercises, while in other cases I chose to include them because I found them interesting.
 
-The goal is to keep everything clean and organized so it can be easily accessed as needed for review (or reviewed by instructors 😨).
+The goal is to keep everything clean and organized so it can be easily accessed as needed for review (or waiting to be review by instructors 😨).
 
 # Courses Index
 
